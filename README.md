@@ -1,4 +1,4 @@
-# Image-Captioning-Using-Attention-Modelling-and-BERT-Embeddings-CS-682-
+# Image Captioning using Attention Modelling and BERT Embeddings.
 
 ## Introduction
 We present a template that produces explanations of the activities or the objects of the image in the natural lan- guage. Our approach uses image data-set and word definitions to learn about the inter-model relationship between language and visual information. Our model of alignment is based on a novel combination of Convolution Neural Net- works over image regions, Recurrent Neural Networks over sentences, and a structured goal that aligns the two modal- ities with an embedded BERT. We will demonstrate that our model generates state-of-the-art results in MS-COCO data-set retrieval experiments. Then we show that the descriptions produced significantly outperform the baselines of retrieval on complete images.
